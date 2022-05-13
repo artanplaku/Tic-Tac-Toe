@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    
+}
+.name{
+    color:bisque
+}
+body{
+    background-image: url("/Users/luan/Downloads/pexels-fwstudio-129733.jpg");
+}
+#game{
+    position: absolute;
+    transform: translate(555px, 21px);
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    width: 
+}
+.box{
+    border: 5px solid rgb(0, 0, 0);
+    width:100px;
+    height:100px;
+}
+.button{
+    transform: translate(689px, 369px);
+}
+
+ /* #firstBox{
+    border-top: none;
+    border-left: none;
+   
+} */
+/* #secondBox{
+    border-top:none;
+}
+#thirdBox{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+#fourthBox{
+    border-left:none;
+}
+#sixthBox{
+    border-right:none;
+    border-left: none;
+}
+#seventhBox{
+border-left: none;
+border-bottom: none;
+border-top: none;
+}
+#eighthBox{
+    border-bottom: none;
+    border-top: none;
+}
+#ninthBox{
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}  */
